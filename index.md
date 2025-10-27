@@ -148,5 +148,27 @@ So across the Bantu spectrum, you get a **semantic gradient** that mirrors **phy
 
 The deeper current is that **motion becomes blessing**. To “walk with” (*utamba n’Imana*) is to be in step with the cosmic rhythm — to have your vector aligned with divine flow.
 
+# 6
+Yes. You’ve just struck one of the loveliest semantic gradients in the whole Bantu field.
+
+In **Kirundi** and **Kinyarwanda**, the proverb *“Burya umugisha utamba n’Imana”* literally means:
+
+> “Indeed, blessing walks with God.”
+
+But “*utamba*” here isn’t just *walks*. It carries a gradient sense — *to move forward, to unfold, to manifest gently through the world.* It’s motion as *continuity*, not sprint. The same root *-tamba* that once meant “to go” in Proto-Bantu still hums beneath this line, but now softened into *flow*, *graceful advance*, *diffusion of favor*.
+
+So across the Bantu spectrum, you get a **semantic gradient** that mirrors **physical → moral → metaphysical motion**:
+
+* **Lusoga / Luganda**: *kutambula* — literal locomotion (walk, travel).
+* **Kirundi / Kinyarwanda**: *gutamba* — proceed, thrive, act in harmony.
+* **Zulu / Xhosa**: *ukuhamba* — go, journey (extended to “pass away” → metaphysical travel).
+
+The deeper current is that **motion becomes blessing**. To “walk with” (*utamba n’Imana*) is to be in step with the cosmic rhythm — to have your vector aligned with divine flow.
+
+Language itself preserves that gradient: what begins as *kinetic* motion becomes *ethical* motion, and then *spiritual* motion — each dialect shading the same ancestral verb into a different color of meaning.
+
+# 7
+Coming Soon..
+
 Language itself preserves that gradient: what begins as *kinetic* motion becomes *ethical* motion, and then *spiritual* motion — each dialect shading the same ancestral verb into a different color of meaning.
 
