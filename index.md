@@ -104,3 +104,32 @@ Do you want me to do that?
 No historical connection, just a case of **false cognates**. But it does make linguistic discussions more memorable — “amb-” walks across continents, apparently 😆.
 
 If you want, I can make a **quick etymology table comparing Lusoga/Zulu “walk” vs Latin “ambulate”** — it’s fun to see them side by side. Do you want me to do that?
+
+# 4
+Here’s a **comparative analytic table** for Lusoga vs. Zulu in the context of the “Ukuhamba kukubona / Okutambula n’okubona” semantic pipeline, aligned with your HTML autoencoder layers (Languages → Roots → Infinitives → Conjugations → Usage). I mapped Lusoga and Zulu tokens, roots, infinitives, and conjugations to illustrate parallels and divergences:
+
+| **Layer**                               | **Function / Role**                           | **Lusoga Example**                                                                                            | **Zulu Example**                                                                                         | **Notes / Analysis**                                                                                                                   |
+| --------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Language**                            | Source language                               | Lusoga                                                                                                        | IsiZulu                                                                                                  | Both are Bantu languages; Lusoga (Uganda), Zulu (South Africa).                                                                        |
+| **Roots**                               | Core semantic morphemes                       | **-TAMB-** = walk, **-BON-** = see                                                                            | **-HAMB-** = walk, **-BONA-** = see                                                                      | Phonological shifts: Lusoga retains **TAMB**, Zulu uses **HAMB**; B/V alternation in some roots is common across Bantu.                |
+| **Infinitive**                          | Verb base form                                | **Okutambula**, **Okubona**                                                                                   | **Ukuhamba**, **Ukubona**                                                                                | Both use the **oku-/uku-** prefix for infinitive; Lusoga may reduce vowels in casual speech.                                           |
+| **Conjugation / Mood**                  | Indicative, subjunctive, progressive, perfect | **-A** (indicative), **-E** (subjunctive), **-NGA** (progressive), **-YE/-ILE** (perfect), **-IRE** (stative) | **-A** (indicative), **-E** (subjunctive), **-YA** (progressive), **-ILE** (perfect), **-IS-** (stative) | Lusoga preserves more diversified progressive forms (-NGA); Zulu often uses **-YA-** prefix. Perfects largely converge (-ILE/-YE).     |
+| **Usage / Surface Token**               | Full phrase / sentence                        | **Okutambula n’okubona** (“Walking and seeing”)                                                               | **Ukuhamba kukubona** (“Walking is seeing”)                                                              | Lusoga explicitly uses **n’** = “and”; Zulu prefers copulative construction, turning the second verb into a dependent phrase.          |
+| **Possessive / Residual (‘wa’ effect)** | Relational / ownership markers                | Observed in Layer-5 outputs (decoded usage nodes like **IVYABONA**)                                           | Zulu uses **ka** / **kwa** for possessive/residual roles                                                 | Both languages retain relational suffixes, Lusoga via **wa** clusters in usage nodes; Zulu maintains **ka/ kwa** but often pre-verbal. |
+
+**Observations / Insights:**
+
+1. **Root-Level Divergence**: Lusoga keeps **TAMB**, Zulu shifts to **HAMB**. This is a classic Bantu consonant alternation pattern.
+2. **Infinitive Prefixes**: Both retain the **oku-/uku-** infinitive marker, highlighting Bantu proto-pattern conservation.
+3. **Conjugation Complexity**: Lusoga shows more granular progressive/stative distinctions (-NGA/-IRE) than Zulu, which often relies on **YA-** or auxiliary constructions.
+4. **Surface Syntax**: Lusoga favors explicit conjunctions (“n’”), whereas Zulu often fuses meaning into a single verbal phrase.
+5. **Residual / Possessive Effect**: The **Layer-5 residual** (wa) in Lusoga shows how relational tokens emerge post-decode; Zulu expresses similar roles pre-verbal or via possessive particles.
+
+---
+
+If you want, I can **visualize this as a mini “autoencoder diagram”** similar to your HTML, showing Lusoga vs Zulu parallel flow through **8-5-2-5-8 neurons**, mapping roots → infinitives → conjugations → usage. This would make the comparison more intuitive.
+
+Do you want me to do that next?
+
+# 5
+Coming Soon..
