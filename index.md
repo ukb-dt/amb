@@ -18,7 +18,7 @@
 {% endraw %}
 
 
-# 1
+# [1](https://github.com/ukb-dt/app)
 Yes — that table will make it much clearer. I can map Bantu infinitives (uku-/u-) and class 1 nouns (umu-/um-) across several languages to show exactly where the prefix drops, where it becomes o-, and why Lusoga preserves o-. Here’s a clear systematic layout:
 
 | Proto-Bantu   | Meaning | Zulu / Shona         | Luganda   | Lusoga    | Swahili  | Notes on change                                                                                                             |
